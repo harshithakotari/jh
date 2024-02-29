@@ -146,13 +146,11 @@ dropoff_longitude_min:  -74.5
 dropoff_latitude_max:  40.999908
 dropoff_longitude_max:  -72.307014
 ```
-
-
-What is the average overall computed trip distance? (You should use Haversine Distance)
-Draw a histogram of the trip distances binned anyway you see fit.
-What are the distinct values for each field? (If applicable)
-For other numeric types besides lat and lon, what are the min and max values?
-Create a chart which shows the average number of passengers each hour of the day. (X axis should have 24 hours)
-Create a new CSV file which has only one out of every thousand rows.
-Repeat step 9 with the reduced dataset and compare the two charts.
+### 6. What is the average overall computed trip distance? (You should use Haversine Distance)
+####   a. Draw a histogram of the trip distances binned anyway you see fit.
+### 7. What are the distinct values for each field? (If applicable)
+### 8. For other numeric types besides lat and lon, what are the min and max values?
+### 9. Create a chart which shows the average number of passengers each hour of the day. (X axis should have 24 hours)
+### 10. Create a new CSV file which has only one out of every thousand rows.
+### 11. Repeat step 9 with the reduced dataset and compare the two charts.
 
