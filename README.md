@@ -1,3 +1,4 @@
+<h1 align="center">Big Data Inspection - NYC Taxi Trips</h1>
 
 ### 1. What datetime range does your data cover?  How many rows are there total?
 
