@@ -82,7 +82,6 @@ dropoff_latitude     :     DECIMAL(8,6)
 ### a. Plot this (approximately on a map)
 
 ```
-5.
 pickup_lat_min = 90
 pickup_lat_max = -90
 pickup_long_min = 180
@@ -131,15 +130,18 @@ print("dropoff_longitude_max: ",dropoff_long_max)
 
 ```
 Output :
-pickup_latitude_min:  40.402771
-pickup_longitude_min:  -74.398354
-pickup_latitude_max:  41.019707
-pickup_longitude_max:  -72.113411
+pickup_latitude_min:  40.400002
+pickup_longitude_min:  -74.398926
+pickup_latitude_max:  41.019539
+pickup_longitude_max:  -72.173218
 dropoff_latitude_min:  40.75
-dropoff_longitude_min:  -74.5
-dropoff_latitude_max:  40.999908
-dropoff_longitude_max:  -72.307014
+dropoff_longitude_min:  -74.499443
+dropoff_latitude_max:  40.999935
+dropoff_longitude_max:  -72.033333
 ```
+
+![image](https://github.com/harshithakotari/jh/assets/161551132/b17cc537-8e6f-4e42-b449-16f60dd06736)
+
 
 
 ## 6. What is the average overall computed trip distance? (You should use Haversine Distance)
